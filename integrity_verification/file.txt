@@ -1,4 +1,0 @@
-Hello! This is a sample file.
-Student ID: 12345
-Course: Cryptography
-This line was secretly added!
